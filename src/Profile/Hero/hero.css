@@ -1,0 +1,31 @@
+.hero {
+    margin-top: 75px;
+    background-color: #d4ecdd;
+    height: 78vh;
+    padding-top: 70px;
+}
+.hero h5 {
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 95px;
+}
+.hero h4 {
+    font-weight: bold;
+    font-size: 65px;
+    margin-left: 93px;
+    margin-top: -10px;
+    letter-spacing: 3px;
+}
+.hero h6 {
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 95px;
+    margin-top: -5px;
+    letter-spacing: 3px;
+}
+.hero img {
+    margin-top: -25vh;
+    height: 475px;
+    width: 370px;
+    margin-left: 815px;
+}

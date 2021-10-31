@@ -1,0 +1,62 @@
+.skill {
+    background-color: honeydew;
+    height: 400px;
+    text-align: center;
+    padding-top: 130px;
+}
+.skill h4 {
+    font-size: 20px;
+    margin-bottom: 55px;
+    font-weight: bold;
+}
+.skill p {
+    font-size: 12px;
+}
+.skill .micro {
+    width: 230px;
+    height: 220px;
+    background-color: #f3f0b7;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+.skill .micro:hover{
+    box-shadow: 4px 4px 5px #e0c097;
+}
+.skill .iot {
+    width: 230px;
+    height: 220px;
+    background-color: #f3f0b7;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+.skill .iot:hover{
+    box-shadow: 4px 4px 5px #e0c097;
+}
+.skill .web-dev {
+    width: 230px;
+    height: 220px;
+    background-color: #f3f0b7;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+.skill .web-dev:hover{
+    box-shadow: 4px 4px 5px #e0c097;
+}
+.skill .backend {
+    width: 230px;
+    height: 220px;
+    background-color: #f3f0b7;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 35px;
+}
+.skill .backend:hover{
+    box-shadow: 4px 4px 5px #e0c097;
+}

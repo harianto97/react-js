@@ -1,13 +1,9 @@
-import Header from "./Komponen/Header";
-import List from "./Komponen/List";
-import Footer from "./Komponen/Footer";
+import Profile from "./Profile";
 
 function App() {
   return (
     <div>
-      <Header />
-      <List />
-      <Footer />
+      <Profile />
     </div>
   );
 }
