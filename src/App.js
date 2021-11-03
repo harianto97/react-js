@@ -1,9 +1,9 @@
-import Profile from "./Profile";
+import Register from "./Komponen/Register/Register";
 
 function App() {
   return (
     <div>
-      <Profile />
+      <Register />
     </div>
   );
 }
