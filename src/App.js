@@ -1,9 +1,9 @@
-import Register from "./Komponen/Register/Register";
+import News from "./News/News";
 
 function App() {
   return (
     <div>
-      <Register />
+      <News />
     </div>
   );
 }
