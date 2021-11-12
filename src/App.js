@@ -1,4 +1,4 @@
-import News from "./News/News";
+import News from "./News/FunctionNews/News";
 
 function App() {
   return (
