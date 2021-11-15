@@ -1,9 +1,14 @@
-import News from "./News/FunctionNews/News";
+import Routing from './Route';
+import { BrowserRouter } from 'react-router-dom';
+
 
 function App() {
   return (
+
     <div>
-      <News />
+      <BrowserRouter>
+        <Routing />
+      </BrowserRouter>
     </div>
   );
 }
