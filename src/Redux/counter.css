@@ -1,0 +1,12 @@
+.btn-counter {
+    text-align: center;
+    margin-top: 30vh;
+    margin-left: auto;
+}
+button {
+    width: 45px;
+    height: 45px;
+    padding: 12px;
+    font-size: 15px;
+    background-color: aquamarine;
+}
